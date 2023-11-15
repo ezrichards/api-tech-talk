@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^1.6.0"
   },
   "name": "api-tech-talk",
   "version": "1.0.0",
